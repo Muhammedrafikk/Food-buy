@@ -1496,14 +1496,22 @@ footer {
   }
 
   
+  
+
+  
+}
+
+@media (min-width:320px) and (max-width:768px){
+
   .free{
-    height: 185vh;
+    height: 200vh;
 
   }
  
 
-  
 }
+
+
 
 @media (max-width:1230px){
 
@@ -1609,7 +1617,7 @@ footer {
 
     background-image: url("image/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.jpg");
     
-    min-height: 100vh;
+    height: 100vh;
     
 } 
 }
@@ -1736,10 +1744,7 @@ footer {
       width: 320px;
     }
 
-    .free{
-      height: 185vh;
-  
-    }
+   
 
     .text h1{
       font-size: 25px;

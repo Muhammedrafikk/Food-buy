@@ -1419,10 +1419,6 @@ footer {
 
 
 
-  .free{
-    min-height: 170vh;
-
-  }
 
   .lang{
     display: flex;
@@ -1499,6 +1495,11 @@ footer {
   
   }
 
+  
+  .free{
+    height: 185vh;
+
+  }
  
 
   
